@@ -1,0 +1,22 @@
+{
+  "name": "interactive-mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyanshi-goyal/Inter-Active.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyanshi-goyal/Inter-Active/issues"
+  },
+  "homepage": "https://github.com/divyanshi-goyal/Inter-Active#readme",
+  "engines": {
+    "node": "v15.3.0"
+  }
+}
